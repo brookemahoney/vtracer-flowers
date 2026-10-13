@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='40' fill='%23a85cff'/%3E%3C/svg%3E" type="image/svg+xml">
+    <style>
+      :root{
+        --bg:#4c1d5b;     /* very dark purple */
+        --ink:#fff5fb;    /* light pink text */
+        --accent:#a85cff; /* purple */
+        --hot:#db2777;    /* pink */
+      }
+      body{margin:0;padding: 40px;background:var(--bg);color:var(--ink);
+        font-family:system-ui,-apple-system,sans-serif;
+      }
+      main{
+        display:flex;align-items:center;justify-content:center;
+        text-align:center;flex-wrap:wrap;gap:1rem}
+      a.gallery{color:var(--ink);display:inline-block;padding:.9rem 1.6rem;
+        border:2px solid var(--hot);border-radius:.6rem;text-decoration:none;
+        font-size:1.1rem;background:rgba(168,90,255,0);transition:.2s}
+      a.gallery:hover{background:rgba(219,39,119,.15)}
+      footer {
+          margin: 100px auto;
+          text-align: center;
+      }
+      footer, header {
+          width:100%;
+      }
+      header {
+          margin: 0 auto 50px;
+          max-width: 600px;
+          h1 {
+              color: var(--hot);
+              text-align: center;
+          }
+          a {
+              color: var(--hot);
+              &:hover {
+                  color: var(--accent);
+              }
+          }
+      }
+    </style>
+</head>
+<body>
+<header>
+    <h1>Flowers with Vtracer</h1>
+    <p>I farted around with LLMS and Vtracer yesterday. This is the result.</p>
+    <p>I wasn't trying to make the best thing ever. This is supposed to be a hacky one-shot prototype.</p>
+    <p>I also made a DDEV plugin to help with this: <a href="https://github.com/brookemahoney/ddev-vtracer/">https://github.com/brookemahoney/ddev-vtracer/</a></p>
+</header>
+<main>
+    <a href="./pink-ivy-geranium/index.html" class="gallery">Pink Ivy Geranium SVG Gallery &rarr;</a>
+    <a href="./magenta-ice-plant-flower/index.html" class="gallery">Magenta Ice Plant Flower SVG Gallery &rarr;</a>
+    <a href="./firewheel-blanket-flower/index.html" class="gallery">Firewheel Blanket Flower SVG Gallery &rarr;</a>
+    <a href="./orange-gazania-treasure-flower/index.html" class="gallery">Orange Gazania Treasure Flower SVG Gallery &rarr;</a>
+    <a href="./purple-orchid-rockrose-flower/index.html" class="gallery">Purple Orchid Rockrose Flower SVG Gallery &rarr;</a>
+</main>
+<footer>
+    Site created by Brooke Mahoney, most code generated with Laguna S 2.1.
+</footer>
+  </body>
+</html>

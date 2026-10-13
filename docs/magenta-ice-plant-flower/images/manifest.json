@@ -1,0 +1,202 @@
+{
+  "img-001.svg": { "size_bytes": 42813, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 101" }
+,
+  "img-002.svg": { "size_bytes": 44405, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 101" }
+,
+  "img-003.svg": { "size_bytes": 44405, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 101" }
+,
+  "img-004.svg": { "size_bytes": 44405, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 101" }
+,
+  "img-005.svg": { "size_bytes": 45837, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 106" }
+,
+  "img-006.svg": { "size_bytes": 50560, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 106" }
+,
+  "img-007.svg": { "size_bytes": 50560, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 106" }
+,
+  "img-008.svg": { "size_bytes": 50560, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 106" }
+,
+  "img-009.svg": { "size_bytes": 48375, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 111" }
+,
+  "img-010.svg": { "size_bytes": 50981, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 111" }
+,
+  "img-011.svg": { "size_bytes": 50981, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 111" }
+,
+  "img-012.svg": { "size_bytes": 50981, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 111" }
+,
+  "img-013.svg": { "size_bytes": 50578, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 116" }
+,
+  "img-014.svg": { "size_bytes": 60457, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 116" }
+,
+  "img-015.svg": { "size_bytes": 60457, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 116" }
+,
+  "img-016.svg": { "size_bytes": 60457, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 116" }
+,
+  "img-017.svg": { "size_bytes": 55204, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 121" }
+,
+  "img-018.svg": { "size_bytes": 64780, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 121" }
+,
+  "img-019.svg": { "size_bytes": 66876, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 121" }
+,
+  "img-020.svg": { "size_bytes": 66876, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 121" }
+,
+  "img-021.svg": { "size_bytes": 68310, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 126" }
+,
+  "img-022.svg": { "size_bytes": 72792, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 126" }
+,
+  "img-023.svg": { "size_bytes": 72792, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 126" }
+,
+  "img-024.svg": { "size_bytes": 72792, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 126" }
+,
+  "img-025.svg": { "size_bytes": 77677, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 131" }
+,
+  "img-026.svg": { "size_bytes": 80213, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 131" }
+,
+  "img-027.svg": { "size_bytes": 80219, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 131" }
+,
+  "img-028.svg": { "size_bytes": 80219, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 131" }
+,
+  "img-029.svg": { "size_bytes": 77754, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 136" }
+,
+  "img-030.svg": { "size_bytes": 82573, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 136" }
+,
+  "img-031.svg": { "size_bytes": 83525, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 136" }
+,
+  "img-032.svg": { "size_bytes": 83525, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 136" }
+,
+  "img-033.svg": { "size_bytes": 84529, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 141" }
+,
+  "img-034.svg": { "size_bytes": 87628, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 141" }
+,
+  "img-035.svg": { "size_bytes": 86456, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 141" }
+,
+  "img-036.svg": { "size_bytes": 86743, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 141" }
+,
+  "img-037.svg": { "size_bytes": 85127, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 146" }
+,
+  "img-038.svg": { "size_bytes": 87779, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 146" }
+,
+  "img-039.svg": { "size_bytes": 90343, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 146" }
+,
+  "img-040.svg": { "size_bytes": 92095, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 146" }
+,
+  "img-041.svg": { "size_bytes": 90488, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 151" }
+,
+  "img-042.svg": { "size_bytes": 95012, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 151" }
+,
+  "img-043.svg": { "size_bytes": 96070, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 151" }
+,
+  "img-044.svg": { "size_bytes": 97398, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 151" }
+,
+  "img-045.svg": { "size_bytes": 92475, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 156" }
+,
+  "img-046.svg": { "size_bytes": 96231, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 156" }
+,
+  "img-047.svg": { "size_bytes": 98526, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 156" }
+,
+  "img-048.svg": { "size_bytes": 102088, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 156" }
+,
+  "img-049.svg": { "size_bytes": 97384, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 161" }
+,
+  "img-050.svg": { "size_bytes": 106297, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 161" }
+,
+  "img-051.svg": { "size_bytes": 106350, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 161" }
+,
+  "img-052.svg": { "size_bytes": 108014, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 161" }
+,
+  "img-053.svg": { "size_bytes": 104731, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 166" }
+,
+  "img-054.svg": { "size_bytes": 109351, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 166" }
+,
+  "img-055.svg": { "size_bytes": 110564, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 166" }
+,
+  "img-056.svg": { "size_bytes": 112659, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 166" }
+,
+  "img-057.svg": { "size_bytes": 115376, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 171" }
+,
+  "img-058.svg": { "size_bytes": 113840, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 171" }
+,
+  "img-059.svg": { "size_bytes": 119665, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 171" }
+,
+  "img-060.svg": { "size_bytes": 121308, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 171" }
+,
+  "img-061.svg": { "size_bytes": 111819, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 176" }
+,
+  "img-062.svg": { "size_bytes": 118850, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 176" }
+,
+  "img-063.svg": { "size_bytes": 121366, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 176" }
+,
+  "img-064.svg": { "size_bytes": 123510, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 176" }
+,
+  "img-065.svg": { "size_bytes": 115240, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 181" }
+,
+  "img-066.svg": { "size_bytes": 122060, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 181" }
+,
+  "img-067.svg": { "size_bytes": 124536, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 181" }
+,
+  "img-068.svg": { "size_bytes": 124999, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 181" }
+,
+  "img-069.svg": { "size_bytes": 121081, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 186" }
+,
+  "img-070.svg": { "size_bytes": 125693, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 186" }
+,
+  "img-071.svg": { "size_bytes": 129945, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 186" }
+,
+  "img-072.svg": { "size_bytes": 134554, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 186" }
+,
+  "img-073.svg": { "size_bytes": 119745, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 191" }
+,
+  "img-074.svg": { "size_bytes": 133335, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 191" }
+,
+  "img-075.svg": { "size_bytes": 136621, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 191" }
+,
+  "img-076.svg": { "size_bytes": 138919, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 191" }
+,
+  "img-077.svg": { "size_bytes": 130527, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 196" }
+,
+  "img-078.svg": { "size_bytes": 138162, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 196" }
+,
+  "img-079.svg": { "size_bytes": 141867, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 196" }
+,
+  "img-080.svg": { "size_bytes": 146650, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 196" }
+,
+  "img-081.svg": { "size_bytes": 136503, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 201" }
+,
+  "img-082.svg": { "size_bytes": 148255, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 201" }
+,
+  "img-083.svg": { "size_bytes": 150979, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 201" }
+,
+  "img-084.svg": { "size_bytes": 153202, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 201" }
+,
+  "img-085.svg": { "size_bytes": 145554, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 206" }
+,
+  "img-086.svg": { "size_bytes": 158382, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 206" }
+,
+  "img-087.svg": { "size_bytes": 164844, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 206" }
+,
+  "img-088.svg": { "size_bytes": 167440, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 206" }
+,
+  "img-089.svg": { "size_bytes": 159510, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 211" }
+,
+  "img-090.svg": { "size_bytes": 165176, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 211" }
+,
+  "img-091.svg": { "size_bytes": 174573, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 211" }
+,
+  "img-092.svg": { "size_bytes": 175252, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 211" }
+,
+  "img-093.svg": { "size_bytes": 169664, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 216" }
+,
+  "img-094.svg": { "size_bytes": 177365, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 216" }
+,
+  "img-095.svg": { "size_bytes": 187568, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 216" }
+,
+  "img-096.svg": { "size_bytes": 189232, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 216" }
+,
+  "img-097.svg": { "size_bytes": 177769, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 16 --watershed-detail 221" }
+,
+  "img-098.svg": { "size_bytes": 195097, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 32 --watershed-detail 221" }
+,
+  "img-099.svg": { "size_bytes": 202765, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 48 --watershed-detail 221" }
+,
+  "img-100.svg": { "size_bytes": 204642, "settings": "--mode spline --clustering watershed --simplify 2.5 --path-precision 0 --hierarchical cutout --color-precision 4 --gradient-step 32 --filter-speckle 2 --optimize 2 --max-colors 64 --watershed-detail 221" }
+
+}
